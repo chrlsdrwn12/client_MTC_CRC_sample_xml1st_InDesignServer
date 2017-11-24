@@ -1,0 +1,583 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Black
+FamilyName:Avenir LT Std
+StyleName:95 Black
+FullName:Avenir LT Std 95 Black
+MenuName:Avenir LT Std 65 Medium
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\AvenirLTStd-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:27912
+FileModTime:1169627760
+WeightClass:750
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Std 95 Black
+NameArray:0,Win,1,Avenir LT Std 65 Medium
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Book
+FamilyName:Avenir LT Std
+StyleName:45 Book
+FullName:Avenir LT Std 45 Book
+MenuName:Avenir LT Std 45 Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\AvenirLTStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:27444
+FileModTime:1173403816
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Std 45 Book
+NameArray:0,Win,1,Avenir LT Std 45 Book
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-BookOblique
+FamilyName:Avenir LT Std
+StyleName:45 Book Oblique
+FullName:Avenir LT Std 45 Book Oblique
+MenuName:Avenir LT Std 45 Book
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\AvenirLTStd-BookOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:28928
+FileModTime:1169627760
+WeightClass:350
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Avenir LT Std 45 Book Oblique
+NameArray:0,Win,1,Avenir LT Std 45 Book
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Heavy
+FamilyName:Avenir LT Std
+StyleName:85 Heavy
+FullName:Avenir LT Std 85 Heavy
+MenuName:Avenir LT Std 55 Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\AvenirLTStd-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:27640
+FileModTime:1288892854
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Std 85 Heavy
+NameArray:0,Win,1,Avenir LT Std 55 Roman
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-LightOblique
+FamilyName:Avenir LT Std
+StyleName:35 Light Oblique
+FullName:Avenir LT Std 35 Light Oblique
+MenuName:Avenir LT Std 35 Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\AvenirLTStd-LightOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:28708
+FileModTime:1169627760
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Avenir LT Std 35 Light Oblique
+NameArray:0,Win,1,Avenir LT Std 35 Light
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Medium
+FamilyName:Avenir LT Std
+StyleName:65 Medium
+FullName:Avenir LT Std 65 Medium
+MenuName:Avenir LT Std 65 Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\AvenirLTStd-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:27264
+FileModTime:1288892854
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Std 65 Medium
+NameArray:0,Win,1,Avenir LT Std 65 Medium
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-MediumOblique
+FamilyName:Avenir LT Std
+StyleName:65 Medium Oblique
+FullName:Avenir LT Std 65 Medium Oblique
+MenuName:Avenir LT Std 65 Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\AvenirLTStd-MediumOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:28920
+FileModTime:1169627760
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Avenir LT Std 65 Medium Oblique
+NameArray:0,Win,1,Avenir LT Std 65 Medium
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Oblique
+FamilyName:Avenir LT Std
+StyleName:55 Oblique
+FullName:Avenir LT Std 55 Oblique
+MenuName:Avenir LT Std 55 Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\AvenirLTStd-Oblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:28724
+FileModTime:1288892854
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Avenir LT Std 55 Oblique
+NameArray:0,Win,1,Avenir LT Std 55 Roman
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Roman
+FamilyName:Avenir LT Std
+StyleName:55 Roman
+FullName:Avenir LT Std 55 Roman
+MenuName:Avenir LT Std 55 Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\AvenirLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:27176
+FileModTime:1169627760
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Std 55 Roman
+NameArray:0,Win,1,Avenir LT Std 55 Roman
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Roman
+FamilyName:Helvetica Neue LT Std
+StyleName:55 Roman
+FullName:Helvetica Neue LT Std 55 Roman
+MenuName:HelveticaNeueLT Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\HelveticaNeueLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:27476
+FileModTime:1169573780
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std
+NameArray:0,Mac,4,Helvetica Neue LT Std 55 Roman
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Bold
+FamilyName:Minion Pro
+StyleName:Bold
+FullName:Minion Pro Bold
+MenuName:Minion Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\MinionPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:187240
+FileModTime:1169573808
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro Bold
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-CnIt
+FamilyName:Minion Pro
+StyleName:Cond Italic
+FullName:Minion Pro Cond Italic
+MenuName:Minion Pro Cond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\MinionPro-CnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:221332
+FileModTime:1169573808
+WeightClass:400
+WidthClass:3
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Cond Ital
+NameArray:0,Mac,4,Minion Pro Cond Italic
+NameArray:0,Win,1,Minion Pro Cond
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-It
+FamilyName:Minion Pro
+StyleName:Italic
+FullName:Minion Pro Italic
+MenuName:Minion Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\MinionPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:220104
+FileModTime:1169573808
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Ital
+NameArray:0,Mac,4,Minion Pro Italic
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:184404
+FileModTime:1169573808
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PalatinoLTStd-Roman
+FamilyName:Palatino LT Std
+StyleName:Roman
+FullName:Palatino LT Std Roman
+MenuName:Palatino LT Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\PalatinoLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:54996
+FileModTime:1169573814
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Palatino LT Std
+NameArray:0,Mac,4,Palatino LT Std Roman
+NameArray:0,Win,1,Palatino LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:STIXGeneral
+FamilyName:STIXGeneral
+StyleName:Regular
+FullName:STIXGeneral
+MenuName:STIXGeneral
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\STIXGeneral.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:273424
+FileModTime:1193823824
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,STIXGeneral
+NameArray:0,Win,1,STIXGeneral
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Universal-NewswithCommPi
+FamilyName:Universal News w. Commercial Pi
+StyleName:Regular
+FullName:Universal News w. Commercial Pi 97
+MenuName:Universal News w. Commercial Pi
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\Universal-NewswithCommPi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:14820
+FileModTime:1201534454
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Universal News w. Commercial Pi 97
+NameArray:0,Win,1,Universal News w. Commercial Pi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversalStd-NewswithCommPi
+FamilyName:Universal Std
+StyleName:News with Commercial Pi
+FullName:Universal Std News with Commercial Pi
+MenuName:Universal Std News w Comm Pi
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\UniversalStd-NewswithCommPi.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+hasSVG:no
+FileLength:20288
+FileModTime:1169573824
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Universal Std News w Comm Pi
+NameArray:0,Mac,4,Universal Std News with Commercial Pi
+NameArray:0,Win,1,Universal Std News w Comm Pi
+NameArray:0,Win,16,Universal Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-Bold
+FamilyName:Univers LT Std
+StyleName:65 Bold
+FullName:Univers LT Std 65 Bold
+MenuName:Univers LT Std 45 Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\UniversLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:34720
+FileModTime:1169627824
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Univers LT Std 65 Bold
+NameArray:0,Win,1,Univers LT Std 45 Light
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTStd-UltraCn
+FamilyName:Univers LT Std
+StyleName:59 Ultra Condensed
+FullName:Univers LT Std 59 Ultra Condensed
+MenuName:Univers LT Std 59 UltraCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\UniversLTStd-UltraCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:29432
+FileModTime:1169627824
+WeightClass:400
+WidthClass:1
+AngleClass:0
+NameArray:0,Mac,18,Univers LT Std 59 UltraCn
+NameArray:0,Mac,4,Univers LT Std 59 Ultra Condensed
+NameArray:0,Win,1,Univers LT Std 59 UltraCn
+NameArray:0,Win,16,Univers LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:WarnockPro-Bold
+FamilyName:Warnock Pro
+StyleName:Bold
+FullName:Warnock Pro Bold
+MenuName:Warnock Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\WarnockPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:151112
+FileModTime:1169573828
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Warnock Pro Bold
+NameArray:0,Win,1,Warnock Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:WarnockPro-Regular
+FamilyName:Warnock Pro
+StyleName:Regular
+FullName:Warnock Pro
+MenuName:Warnock Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\WarnockPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:150936
+FileModTime:1169573828
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Warnock Pro
+NameArray:0,Win,1,Warnock Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ZapfDingbatsStd
+FamilyName:ITC Zapf Dingbats Std
+StyleName:Medium
+FullName:ITC Zapf Dingbats Std Medium
+MenuName:ITC Zapf Dingbats Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\CRC\Document fonts\ZapfDingbatsStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:39228
+FileModTime:1188209868
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:240
+NameArray:0,Mac,18,ITC Zapf Dingbats Std
+NameArray:0,Mac,4,ITC Zapf Dingbats Std Medium
+NameArray:0,Win,1,ITC Zapf Dingbats Std
+%EndFont
+
